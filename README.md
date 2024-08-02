@@ -19,7 +19,9 @@ To run this project on your own computer, follow these steps:
 
 ## Deployment
 
-This project is also deployed on Vercel. You can view the live version here: https://sorting-algorithms-visualizer-tau.vercel.app/.
+This project is also deployed on Vercel. You can view the live version here: https://sorting-algorithms-visualizer-ak.netlify.app/.
+
+By ANURAG KUMAR
 
 
 
